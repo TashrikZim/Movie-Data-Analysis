@@ -3,7 +3,7 @@ This project explores the IMDB Movie Metadata dataset using R. The workflow cove
 
 The goal was to understand patterns in movie budgets, revenues, IMDb ratings, and genre distributions, while also practicing R programming skills such as using dplyr, ggplot2, and corrplot.
 
-Key highlights:
+Key highlights:.
 
 > Cleaned and pre-processed raw movie dataset (handled missing values, duplicates).
 
