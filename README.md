@@ -1,4 +1,4 @@
-Movie Data Analysis in R
+  Movie Data Analysis in R
 This project explores the IMDB Movie Metadata dataset using R. The workflow covers data cleaning, wrangling, exploratory data analysis (EDA), and different types of visualizations (histograms, scatterplots, correlation heatmaps, regression models).
 
 The goal was to understand patterns in movie budgets, revenues, IMDb ratings, and genre distributions, while also practicing R programming skills such as using dplyr, ggplot2, and corrplot.
